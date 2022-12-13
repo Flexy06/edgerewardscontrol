@@ -2,7 +2,7 @@ import pyautogui
 import random
 import time
 import pyperclip
-email = "flexy06@outlook.de"
+email = "your email"
 text = "r"
 anzahl_email_adressen = 6
 emails = ["your email", "your email", "your email", "your email", "your email","your email","your email"]
