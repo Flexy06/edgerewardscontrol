@@ -5,7 +5,7 @@ import pyperclip
 email = "flexy06@outlook.de"
 text = "r"
 anzahl_email_adressen = 6
-emails = ["Flexy06@outlook.de", "Flexy06@online.de", "anonymusanonym116@gmail.com", "flexy06spam@gmail.com", "twominutestudio@gmail.com","munterunter54@gmail.com","Flexyrewards@outlook.com"]
+emails = ["your email", "your email", "your email", "your email", "your email","your email","your email"]
 screenWidth, screenHeight = pyautogui.size()
 pyautogui.FailSafeException
 #pyautogui.moveTo(250, 50)
@@ -85,12 +85,12 @@ for i in range(0, len(emails)):
 
 
 
-    #email = "Flexy06@online.de"
+    #email = "*******"
     #log_out_in(email)
     #time.sleep(1.2)
     #rewardsredeem(text)
     #time.sleep(2.0)
-    #email = "anonymusanonym116@gmail.com"
+    #email = "*********"
     #log_out_in(email)
     #time.sleep(1.2)
     #rewardsredeem(text)
